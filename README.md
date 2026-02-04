@@ -17,8 +17,9 @@ Models & Attention Mechanisms Implemented:
 - SE (Squeeze-and-Excitation)
 
 Datasets Used:
-- UAVid Dataset
-- Aeroscapes Dataset
+- UAVid
+- Aeroscapes
+  
 Datasets are not included in this repository due to size and licensing. Please download them from their official sources and update dataset paths inside the notebooks.
 
 

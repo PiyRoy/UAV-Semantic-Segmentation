@@ -2,6 +2,7 @@
 This repository contains a collection of deep learning–based semantic segmentation models for aerial (UAV) imagery, implemented and experimented primarily using UAVid and Aeroscapes datasets. The work focuses on analyzing and comparing different attention mechanisms integrated with popular encoder–decoder architectures such as U-Net, SegNet, SegUNet, and UNet3+. The repository is intended for research, experimentation, and academic use, especially for students and researchers working on remote sensing, UAV vision, and semantic segmentation.
 
 Models & Attention Mechanisms Implemented:
+
 🔹 Architectures
 - U-Net
 - SegNet
